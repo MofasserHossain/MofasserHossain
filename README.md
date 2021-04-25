@@ -12,8 +12,6 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mofasser-hossain/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Mofasser.Hossain.Mahfuj) 
 
-<br />
-
 ### Languages and Tools:
 <a href="https://github.com/MofasserHossain">
     <img align="left" alt="html" width="22px" title="Visual Studio Code" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/visual-studio-code.svg"/>
@@ -64,8 +62,6 @@
    <img align="left" alt="html" width="35px" height="25px" title="CPanel" src="https://raw.githubusercontent.com/prosany/prosany/main/images/cpanel.svg" style="max-width:100%;">
 </a>
 
-
-<br />
 
 <br />
 
