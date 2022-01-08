@@ -1,7 +1,7 @@
 ### Hi there, I'm  [Mofasser Hossain][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working React JS Project
+- 🔭 I’m currently working MERN Stack Project
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Node JS, MongoDB, React JS, Express JS, GraphQL
 - ⚡ Fun fact: I love to Explore the world 
