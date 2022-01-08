@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working React JS Project
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Node JS, MongoDB, React JS, Express JS
+- 🥅 2022 Goals: Node JS, MongoDB, React JS, Express JS, GraphQL
 - ⚡ Fun fact: I love to Explore the world 
 - 📫 How to reach me: mofasserhossain01@gmail.com
 
