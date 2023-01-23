@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working MERN Stack Project
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Node JS, MongoDB, TypeScript, Express JS, GraphQL
+- 🥅 2023 Goals: Node JS, MongoDB, TypeScript, Express JS, GraphQL
 - ⚡ Fun fact: I love to Explore the world 
 - 📫 How to reach me: mofasserhossain01@gmail.com
 
