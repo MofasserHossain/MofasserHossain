@@ -69,8 +69,9 @@
 
 <br />
 <br />
-<img width="550px" alt="Mofasser Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=MofasserHossain&show_icons=true"/>
+<img width="400px" alt="Mahabub Sany Github Stats"  src="https://github-readme-stats.vercel.app/api?username=prosany&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=MofasserHossain&card_width=550)](https://github.com/MofasserHossain)
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&layout=compact)](https://github.com/prosany)
 
-[website]: https://mofasserhossain.ml/
+[mofasser_github]: https://github.com/MofasserHossain
