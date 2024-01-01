@@ -1,18 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mofasser Hossain
 ========================================================================================================================================
 
-Software Enginner
+Software Engineer
 ----------------
 
-I love to code, explore new things and slove complex engineering problem.
+I love to code, explore new things and solve complex engineering problem.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My website](http://mofasserhossain.netlify.app)
 * ✉️  You can contact me at [mofasserhossain01@gmail.com](mailto:mofasserhossain01@gmail.com)
-* 🧠  I'm learning Kotlin, Problem Sloving, Node JS
-* 🔭 I’m currently working MERN Stack, React Native, and Kotlin Project
+* 🧠  I'm learning Kotlin, Problem Solving, Node JS
+* 🔭 I’m currently working on MERN Stack, React Native, and Kotlin Project
 * 🤝  I'm open to collaborating on React Native, Kotline, or Next JS Porject
-* ⚡  I love to explore the new things and technology.
+* ⚡  I love to explore new things and technology.
 
 ### Skills
 
