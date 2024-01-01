@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Softare Enginner
 ----------------
 
-I have been working on Frontend Engineering and App Development in last 3year. I love to explore new things and slove complex problem.
+I love to code, explore new things and slove complex engineering problem.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My website](http://mofasserhossain.netlify.app)
