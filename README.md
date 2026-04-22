@@ -7,11 +7,11 @@ Software Engineer
 I love to code, explore new things and solve complex engineering problem.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [My website](http://mofasserhossain.netlify.app)
+* 🖥️  See my portfolio at [My website](http://mofasserhossain.vercel.app)
 * ✉️  You can contact me at [mofasserhossain01@gmail.com](mailto:mofasserhossain01@gmail.com)
 * 🧠  I'm learning Problem Solving, System Design, AI/ML
 * 🔭  I’m currently working on MERN Stack, React Native, Node JS/Nest JS and Next JS Project
-* 🤝  I'm open to collaborating on React Native, Node/Nest JS, or Next JS Porject
+* 🤝  I'm open to collaborating on React Native, Node/Nest JS, Next JS Porject, Backend System Design
 * ⚡  I love to explore new things and technology.
 
 ### Skills
